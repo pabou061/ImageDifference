@@ -1,6 +1,7 @@
 # ImageDifference
 
 Lab project for the Image Processing Class. 
+
 This code will take 2 images and calculate the pixel intensity difference using a trackbar
 
 # Technology
